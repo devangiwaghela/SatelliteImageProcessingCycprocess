@@ -70,11 +70,4 @@ The system provides:
   - Laplacian energy map
   - Intensity histogram
 
----
 
-## 🚀 How to Run
-
-### 1. Clone repository
-```bash
-git clone https://github.com/your-username/cyclone-image-analysis.git
-cd cyclone-image-analysis
